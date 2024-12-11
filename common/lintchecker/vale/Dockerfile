@@ -1,5 +1,5 @@
 # See https://cloud.docker.com/repository/docker/jdkato/vale
-FROM alpine:3.10
+FROM alpine:3.21.0
 
 # TODO: DITA / XML:
 #    openjdk11 \
